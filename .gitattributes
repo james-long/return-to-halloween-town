@@ -1,2 +1,1 @@
-finalBuild WIN/* linguist-vendored
-finalBuild MAC/* linguist-vendored
+finalBuild WIN/finalBuild_Data/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx
