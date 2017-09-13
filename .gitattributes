@@ -1,0 +1,2 @@
+finalBuild WIN/* linguist-vendored
+finalBuild MAC/* linguist-vendored
