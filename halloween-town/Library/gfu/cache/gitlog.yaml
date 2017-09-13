@@ -1,0 +1,2330 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 5c0867b0f679bcd4dabd0752a4a1554b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  log:
+  - CommitID: e038addd30de7a2456b0243093c0bcf3748e2511
+    MergeA: 
+    MergeB: 
+    AuthorName: James Long
+    AuthorEmail: jameslong0410@gmail.com
+    CommitEmail: jameslong0410@gmail.com
+    CommitName: James Long
+    Summary: Initial Commit
+    Description: Initial Commit
+    TimeString: 9/12/2017 11:54:07 PM -04:00
+    CommitTimeString: 9/12/2017 11:54:07 PM -04:00
+    Changes:
+    - Path: Assets\Animations.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations.meta
+      ProjectPath: Assets\Animations.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations.meta
+      ProjectPath: Assets\Animations\Animations.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\ER Attack.controller
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\ER
+        Attack.controller
+      ProjectPath: Assets\Animations\Animations\ER Attack.controller
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\ER Attack.controller.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\ER
+        Attack.controller.meta
+      ProjectPath: Assets\Animations\Animations\ER Attack.controller.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\ERAnimation.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\ERAnimation.anim
+      ProjectPath: Assets\Animations\Animations\ERAnimation.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\ERAnimation.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\ERAnimation.anim.meta
+      ProjectPath: Assets\Animations\Animations\ERAnimation.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs.meta
+      ProjectPath: Assets\Animations\Animations\Mobs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Bat.controller
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Bat.controller
+      ProjectPath: Assets\Animations\Animations\Mobs\Bat.controller
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Bat.controller.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Bat.controller.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\Bat.controller.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\BatIdle.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\BatIdle.anim
+      ProjectPath: Assets\Animations\Animations\Mobs\BatIdle.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\BatIdle.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\BatIdle.anim.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\BatIdle.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Candle.controller
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Candle.controller
+      ProjectPath: Assets\Animations\Animations\Mobs\Candle.controller
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Candle.controller.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Candle.controller.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\Candle.controller.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\CandleIdle.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\CandleIdle.anim
+      ProjectPath: Assets\Animations\Animations\Mobs\CandleIdle.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\CandleIdle.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\CandleIdle.anim.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\CandleIdle.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\CandleJump.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\CandleJump.anim
+      ProjectPath: Assets\Animations\Animations\Mobs\CandleJump.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\CandleJump.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\CandleJump.anim.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\CandleJump.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Ghost.controller
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Ghost.controller
+      ProjectPath: Assets\Animations\Animations\Mobs\Ghost.controller
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Ghost.controller.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Ghost.controller.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\Ghost.controller.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\GhostIdle.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\GhostIdle.anim
+      ProjectPath: Assets\Animations\Animations\Mobs\GhostIdle.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\GhostIdle.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\GhostIdle.anim.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\GhostIdle.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Maiden.controller
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Maiden.controller
+      ProjectPath: Assets\Animations\Animations\Mobs\Maiden.controller
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Maiden.controller.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Maiden.controller.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\Maiden.controller.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Maiden0.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Maiden0.anim
+      ProjectPath: Assets\Animations\Animations\Mobs\Maiden0.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Maiden0.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Maiden0.anim.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\Maiden0.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Maiden1.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Maiden1.anim
+      ProjectPath: Assets\Animations\Animations\Mobs\Maiden1.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Maiden1.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Maiden1.anim.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\Maiden1.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Maiden2.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Maiden2.anim
+      ProjectPath: Assets\Animations\Animations\Mobs\Maiden2.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Maiden2.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Maiden2.anim.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\Maiden2.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Maiden3.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Maiden3.anim
+      ProjectPath: Assets\Animations\Animations\Mobs\Maiden3.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Maiden3.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Maiden3.anim.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\Maiden3.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Maiden4.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Maiden4.anim
+      ProjectPath: Assets\Animations\Animations\Mobs\Maiden4.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Maiden4.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Maiden4.anim.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\Maiden4.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Mushroom.controller
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Mushroom.controller
+      ProjectPath: Assets\Animations\Animations\Mobs\Mushroom.controller
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Mushroom.controller.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Mushroom.controller.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\Mushroom.controller.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\MushroomIdle.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\MushroomIdle.anim
+      ProjectPath: Assets\Animations\Animations\Mobs\MushroomIdle.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\MushroomIdle.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\MushroomIdle.anim.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\MushroomIdle.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\MushroomJump.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\MushroomJump.anim
+      ProjectPath: Assets\Animations\Animations\Mobs\MushroomJump.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\MushroomJump.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\MushroomJump.anim.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\MushroomJump.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\MushroomWindup.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\MushroomWindup.anim
+      ProjectPath: Assets\Animations\Animations\Mobs\MushroomWindup.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\MushroomWindup.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\MushroomWindup.anim.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\MushroomWindup.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\PatrollerRun.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\PatrollerRun.anim
+      ProjectPath: Assets\Animations\Animations\Mobs\PatrollerRun.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\PatrollerRun.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\PatrollerRun.anim.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\PatrollerRun.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Spirit.controller
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Spirit.controller
+      ProjectPath: Assets\Animations\Animations\Mobs\Spirit.controller
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\Spirit.controller.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\Spirit.controller.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\Spirit.controller.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\SpiritOrb.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\SpiritOrb.anim
+      ProjectPath: Assets\Animations\Animations\Mobs\SpiritOrb.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Mobs\SpiritOrb.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Mobs\SpiritOrb.anim.meta
+      ProjectPath: Assets\Animations\Animations\Mobs\SpiritOrb.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC.meta
+      ProjectPath: Assets\Animations\Animations\NPC.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\Cyanide.controller
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\Cyanide.controller
+      ProjectPath: Assets\Animations\Animations\NPC\Cyanide.controller
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\Cyanide.controller.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\Cyanide.controller.meta
+      ProjectPath: Assets\Animations\Animations\NPC\Cyanide.controller.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\CyanideIdle.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\CyanideIdle.anim
+      ProjectPath: Assets\Animations\Animations\NPC\CyanideIdle.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\CyanideIdle.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\CyanideIdle.anim.meta
+      ProjectPath: Assets\Animations\Animations\NPC\CyanideIdle.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\Edel.controller
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\Edel.controller
+      ProjectPath: Assets\Animations\Animations\NPC\Edel.controller
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\Edel.controller.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\Edel.controller.meta
+      ProjectPath: Assets\Animations\Animations\NPC\Edel.controller.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\EdelIdle.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\EdelIdle.anim
+      ProjectPath: Assets\Animations\Animations\NPC\EdelIdle.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\EdelIdle.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\EdelIdle.anim.meta
+      ProjectPath: Assets\Animations\Animations\NPC\EdelIdle.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\Ellie.controller
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\Ellie.controller
+      ProjectPath: Assets\Animations\Animations\NPC\Ellie.controller
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\Ellie.controller.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\Ellie.controller.meta
+      ProjectPath: Assets\Animations\Animations\NPC\Ellie.controller.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\EllieIdle.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\EllieIdle.anim
+      ProjectPath: Assets\Animations\Animations\NPC\EllieIdle.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\EllieIdle.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\EllieIdle.anim.meta
+      ProjectPath: Assets\Animations\Animations\NPC\EllieIdle.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\Feli.controller
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\Feli.controller
+      ProjectPath: Assets\Animations\Animations\NPC\Feli.controller
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\Feli.controller.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\Feli.controller.meta
+      ProjectPath: Assets\Animations\Animations\NPC\Feli.controller.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\FeliIdle.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\FeliIdle.anim
+      ProjectPath: Assets\Animations\Animations\NPC\FeliIdle.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\FeliIdle.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\FeliIdle.anim.meta
+      ProjectPath: Assets\Animations\Animations\NPC\FeliIdle.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\Umbra.controller
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\Umbra.controller
+      ProjectPath: Assets\Animations\Animations\NPC\Umbra.controller
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\Umbra.controller.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\Umbra.controller.meta
+      ProjectPath: Assets\Animations\Animations\NPC\Umbra.controller.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\UmbraIdle.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\UmbraIdle.anim
+      ProjectPath: Assets\Animations\Animations\NPC\UmbraIdle.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\NPC\UmbraIdle.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\NPC\UmbraIdle.anim.meta
+      ProjectPath: Assets\Animations\Animations\NPC\UmbraIdle.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\PatrollerIdle.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\PatrollerIdle.anim
+      ProjectPath: Assets\Animations\Animations\PatrollerIdle.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\PatrollerIdle.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\PatrollerIdle.anim.meta
+      ProjectPath: Assets\Animations\Animations\PatrollerIdle.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\PatrollerJumpDown.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\PatrollerJumpDown.anim
+      ProjectPath: Assets\Animations\Animations\PatrollerJumpDown.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\PatrollerJumpDown.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\PatrollerJumpDown.anim.meta
+      ProjectPath: Assets\Animations\Animations\PatrollerJumpDown.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\PatrollerJumpUp.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\PatrollerJumpUp.anim
+      ProjectPath: Assets\Animations\Animations\PatrollerJumpUp.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\PatrollerJumpUp.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\PatrollerJumpUp.anim.meta
+      ProjectPath: Assets\Animations\Animations\PatrollerJumpUp.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\PatrollerRun.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\PatrollerRun.anim
+      ProjectPath: Assets\Animations\Animations\PatrollerRun.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\PatrollerRun.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\PatrollerRun.anim.meta
+      ProjectPath: Assets\Animations\Animations\PatrollerRun.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player.meta
+      ProjectPath: Assets\Animations\Animations\Player.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerBuffSpell.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerBuffSpell.anim
+      ProjectPath: Assets\Animations\Animations\Player\PlayerBuffSpell.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerBuffSpell.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerBuffSpell.anim.meta
+      ProjectPath: Assets\Animations\Animations\Player\PlayerBuffSpell.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerCoolSpell.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerCoolSpell.anim
+      ProjectPath: Assets\Animations\Animations\Player\PlayerCoolSpell.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerCoolSpell.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerCoolSpell.anim.meta
+      ProjectPath: Assets\Animations\Animations\Player\PlayerCoolSpell.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerIdle.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerIdle.anim
+      ProjectPath: Assets\Animations\Animations\Player\PlayerIdle.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerIdle.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerIdle.anim.meta
+      ProjectPath: Assets\Animations\Animations\Player\PlayerIdle.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerInstantSpell.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerInstantSpell.anim
+      ProjectPath: Assets\Animations\Animations\Player\PlayerInstantSpell.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerInstantSpell.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerInstantSpell.anim.meta
+      ProjectPath: Assets\Animations\Animations\Player\PlayerInstantSpell.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerJumpAttack.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerJumpAttack.anim
+      ProjectPath: Assets\Animations\Animations\Player\PlayerJumpAttack.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerJumpAttack.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerJumpAttack.anim.meta
+      ProjectPath: Assets\Animations\Animations\Player\PlayerJumpAttack.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerJumpDown.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerJumpDown.anim
+      ProjectPath: Assets\Animations\Animations\Player\PlayerJumpDown.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerJumpDown.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerJumpDown.anim.meta
+      ProjectPath: Assets\Animations\Animations\Player\PlayerJumpDown.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerJumpUp.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerJumpUp.anim
+      ProjectPath: Assets\Animations\Animations\Player\PlayerJumpUp.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerJumpUp.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerJumpUp.anim.meta
+      ProjectPath: Assets\Animations\Animations\Player\PlayerJumpUp.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerNeutralAttack.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerNeutralAttack.anim
+      ProjectPath: Assets\Animations\Animations\Player\PlayerNeutralAttack.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerNeutralAttack.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerNeutralAttack.anim.meta
+      ProjectPath: Assets\Animations\Animations\Player\PlayerNeutralAttack.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerNeutralAttackButWeaker.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerNeutralAttackButWeaker.anim
+      ProjectPath: Assets\Animations\Animations\Player\PlayerNeutralAttackButWeaker.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerNeutralAttackButWeaker.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerNeutralAttackButWeaker.anim.meta
+      ProjectPath: Assets\Animations\Animations\Player\PlayerNeutralAttackButWeaker.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerRun.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerRun.anim
+      ProjectPath: Assets\Animations\Animations\Player\PlayerRun.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerRun.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerRun.anim.meta
+      ProjectPath: Assets\Animations\Animations\Player\PlayerRun.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerSpellWindup.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerSpellWindup.anim
+      ProjectPath: Assets\Animations\Animations\Player\PlayerSpellWindup.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerSpellWindup.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerSpellWindup.anim.meta
+      ProjectPath: Assets\Animations\Animations\Player\PlayerSpellWindup.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerWindupDark.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerWindupDark.anim
+      ProjectPath: Assets\Animations\Animations\Player\PlayerWindupDark.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerWindupDark.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerWindupDark.anim.meta
+      ProjectPath: Assets\Animations\Animations\Player\PlayerWindupDark.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerWindupNeutral.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerWindupNeutral.anim
+      ProjectPath: Assets\Animations\Animations\Player\PlayerWindupNeutral.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerWindupNeutral.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerWindupNeutral.anim.meta
+      ProjectPath: Assets\Animations\Animations\Player\PlayerWindupNeutral.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerWindupWind.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerWindupWind.anim
+      ProjectPath: Assets\Animations\Animations\Player\PlayerWindupWind.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\Player\PlayerWindupWind.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\Player\PlayerWindupWind.anim.meta
+      ProjectPath: Assets\Animations\Animations\Player\PlayerWindupWind.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\QE Attack.controller
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\QE
+        Attack.controller
+      ProjectPath: Assets\Animations\Animations\QE Attack.controller
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\QE Attack.controller.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\QE
+        Attack.controller.meta
+      ProjectPath: Assets\Animations\Animations\QE Attack.controller.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\QEAttack.anim
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\QEAttack.anim
+      ProjectPath: Assets\Animations\Animations\QEAttack.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\Animations\QEAttack.anim.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\Animations\QEAttack.anim.meta
+      ProjectPath: Assets\Animations\Animations\QEAttack.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\AnimatorControllers.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\AnimatorControllers.meta
+      ProjectPath: Assets\Animations\AnimatorControllers.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\AnimatorControllers\ERController.controller
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\AnimatorControllers\ERController.controller
+      ProjectPath: Assets\Animations\AnimatorControllers\ERController.controller
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\AnimatorControllers\ERController.controller.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\AnimatorControllers\ERController.controller.meta
+      ProjectPath: Assets\Animations\AnimatorControllers\ERController.controller.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\AnimatorControllers\Patroller.controller
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\AnimatorControllers\Patroller.controller
+      ProjectPath: Assets\Animations\AnimatorControllers\Patroller.controller
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\AnimatorControllers\Patroller.controller.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\AnimatorControllers\Patroller.controller.meta
+      ProjectPath: Assets\Animations\AnimatorControllers\Patroller.controller.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\AnimatorControllers\Player.controller
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\AnimatorControllers\Player.controller
+      ProjectPath: Assets\Animations\AnimatorControllers\Player.controller
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Animations\AnimatorControllers\Player.controller.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Animations\AnimatorControllers\Player.controller.meta
+      ProjectPath: Assets\Animations\AnimatorControllers\Player.controller.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Materials.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Materials.meta
+      ProjectPath: Assets\Materials.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Materials\Bouncy.physicsMaterial2D
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Materials\Bouncy.physicsMaterial2D
+      ProjectPath: Assets\Materials\Bouncy.physicsMaterial2D
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Materials\Bouncy.physicsMaterial2D.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Materials\Bouncy.physicsMaterial2D.meta
+      ProjectPath: Assets\Materials\Bouncy.physicsMaterial2D.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Materials\NoFriction.physicsMaterial2D
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Materials\NoFriction.physicsMaterial2D
+      ProjectPath: Assets\Materials\NoFriction.physicsMaterial2D
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Materials\NoFriction.physicsMaterial2D.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Materials\NoFriction.physicsMaterial2D.meta
+      ProjectPath: Assets\Materials\NoFriction.physicsMaterial2D.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Plugins.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Plugins.meta
+      ProjectPath: Assets\Plugins.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs.meta
+      ProjectPath: Assets\Prefabs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Bat.prefab
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Bat.prefab
+      ProjectPath: Assets\Prefabs\Bat.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Bat.prefab.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Bat.prefab.meta
+      ProjectPath: Assets\Prefabs\Bat.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\BoundaryManager.prefab
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\BoundaryManager.prefab
+      ProjectPath: Assets\Prefabs\BoundaryManager.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\BoundaryManager.prefab.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\BoundaryManager.prefab.meta
+      ProjectPath: Assets\Prefabs\BoundaryManager.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Candle.prefab
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Candle.prefab
+      ProjectPath: Assets\Prefabs\Candle.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Candle.prefab.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Candle.prefab.meta
+      ProjectPath: Assets\Prefabs\Candle.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\ER Attack.prefab
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\ER
+        Attack.prefab
+      ProjectPath: Assets\Prefabs\ER Attack.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\ER Attack.prefab.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\ER
+        Attack.prefab.meta
+      ProjectPath: Assets\Prefabs\ER Attack.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Ghost.prefab
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Ghost.prefab
+      ProjectPath: Assets\Prefabs\Ghost.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Ghost.prefab.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Ghost.prefab.meta
+      ProjectPath: Assets\Prefabs\Ghost.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Maiden.prefab
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Maiden.prefab
+      ProjectPath: Assets\Prefabs\Maiden.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Maiden.prefab.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Maiden.prefab.meta
+      ProjectPath: Assets\Prefabs\Maiden.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Mushroom.prefab
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Mushroom.prefab
+      ProjectPath: Assets\Prefabs\Mushroom.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Mushroom.prefab.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Mushroom.prefab.meta
+      ProjectPath: Assets\Prefabs\Mushroom.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Player.prefab
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Player.prefab
+      ProjectPath: Assets\Prefabs\Player.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Player.prefab.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Player.prefab.meta
+      ProjectPath: Assets\Prefabs\Player.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Pumpkin.prefab
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Pumpkin.prefab
+      ProjectPath: Assets\Prefabs\Pumpkin.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Pumpkin.prefab.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Pumpkin.prefab.meta
+      ProjectPath: Assets\Prefabs\Pumpkin.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\QR Attack.prefab
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\QR
+        Attack.prefab
+      ProjectPath: Assets\Prefabs\QR Attack.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\QR Attack.prefab.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\QR
+        Attack.prefab.meta
+      ProjectPath: Assets\Prefabs\QR Attack.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Queued Up.prefab
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Queued
+        Up.prefab
+      ProjectPath: Assets\Prefabs\Queued Up.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Queued Up.prefab.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Queued
+        Up.prefab.meta
+      ProjectPath: Assets\Prefabs\Queued Up.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Resource Slider.prefab
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Resource
+        Slider.prefab
+      ProjectPath: Assets\Prefabs\Resource Slider.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Resource Slider.prefab.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Resource
+        Slider.prefab.meta
+      ProjectPath: Assets\Prefabs\Resource Slider.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\SkillIcon.prefab
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\SkillIcon.prefab
+      ProjectPath: Assets\Prefabs\SkillIcon.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\SkillIcon.prefab.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\SkillIcon.prefab.meta
+      ProjectPath: Assets\Prefabs\SkillIcon.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Spirit.prefab
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Spirit.prefab
+      ProjectPath: Assets\Prefabs\Spirit.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Prefabs\Spirit.prefab.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Prefabs\Spirit.prefab.meta
+      ProjectPath: Assets\Prefabs\Spirit.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts.meta
+      ProjectPath: Assets\Scripts.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\BoundaryManager.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\BoundaryManager.cs
+      ProjectPath: Assets\Scripts\BoundaryManager.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\BoundaryManager.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\BoundaryManager.cs.meta
+      ProjectPath: Assets\Scripts\BoundaryManager.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\CameraControllerScript.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\CameraControllerScript.cs
+      ProjectPath: Assets\Scripts\CameraControllerScript.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\CameraControllerScript.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\CameraControllerScript.cs.meta
+      ProjectPath: Assets\Scripts\CameraControllerScript.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\DialogueManager.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\DialogueManager.cs
+      ProjectPath: Assets\Scripts\DialogueManager.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\DialogueManager.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\DialogueManager.cs.meta
+      ProjectPath: Assets\Scripts\DialogueManager.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Enemies.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Enemies.meta
+      ProjectPath: Assets\Scripts\Enemies.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Enemies\BatControllerScript.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Enemies\BatControllerScript.cs
+      ProjectPath: Assets\Scripts\Enemies\BatControllerScript.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Enemies\BatControllerScript.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Enemies\BatControllerScript.cs.meta
+      ProjectPath: Assets\Scripts\Enemies\BatControllerScript.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Enemies\CandleControllerScript.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Enemies\CandleControllerScript.cs
+      ProjectPath: Assets\Scripts\Enemies\CandleControllerScript.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Enemies\CandleControllerScript.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Enemies\CandleControllerScript.cs.meta
+      ProjectPath: Assets\Scripts\Enemies\CandleControllerScript.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Enemies\GenericEnemyControllerScript.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Enemies\GenericEnemyControllerScript.cs
+      ProjectPath: Assets\Scripts\Enemies\GenericEnemyControllerScript.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Enemies\GenericEnemyControllerScript.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Enemies\GenericEnemyControllerScript.cs.meta
+      ProjectPath: Assets\Scripts\Enemies\GenericEnemyControllerScript.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Enemies\GhostControllerScript.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Enemies\GhostControllerScript.cs
+      ProjectPath: Assets\Scripts\Enemies\GhostControllerScript.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Enemies\GhostControllerScript.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Enemies\GhostControllerScript.cs.meta
+      ProjectPath: Assets\Scripts\Enemies\GhostControllerScript.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Enemies\MaidenControllerScript.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Enemies\MaidenControllerScript.cs
+      ProjectPath: Assets\Scripts\Enemies\MaidenControllerScript.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Enemies\MaidenControllerScript.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Enemies\MaidenControllerScript.cs.meta
+      ProjectPath: Assets\Scripts\Enemies\MaidenControllerScript.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Enemies\MushroomControllerScript.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Enemies\MushroomControllerScript.cs
+      ProjectPath: Assets\Scripts\Enemies\MushroomControllerScript.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Enemies\MushroomControllerScript.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Enemies\MushroomControllerScript.cs.meta
+      ProjectPath: Assets\Scripts\Enemies\MushroomControllerScript.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Enemies\PatrollerControllerScript.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Enemies\PatrollerControllerScript.cs
+      ProjectPath: Assets\Scripts\Enemies\PatrollerControllerScript.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Enemies\PatrollerControllerScript.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Enemies\PatrollerControllerScript.cs.meta
+      ProjectPath: Assets\Scripts\Enemies\PatrollerControllerScript.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Enemies\SpiritControllerScript.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Enemies\SpiritControllerScript.cs
+      ProjectPath: Assets\Scripts\Enemies\SpiritControllerScript.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Enemies\SpiritControllerScript.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Enemies\SpiritControllerScript.cs.meta
+      ProjectPath: Assets\Scripts\Enemies\SpiritControllerScript.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\EnemyManager.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\EnemyManager.cs
+      ProjectPath: Assets\Scripts\EnemyManager.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\EnemyManager.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\EnemyManager.cs.meta
+      ProjectPath: Assets\Scripts\EnemyManager.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\NPC.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\NPC.meta
+      ProjectPath: Assets\Scripts\NPC.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\NPC\EllieScript.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\NPC\EllieScript.cs
+      ProjectPath: Assets\Scripts\NPC\EllieScript.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\NPC\EllieScript.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\NPC\EllieScript.cs.meta
+      ProjectPath: Assets\Scripts\NPC\EllieScript.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\NPC\FeliScript.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\NPC\FeliScript.cs
+      ProjectPath: Assets\Scripts\NPC\FeliScript.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\NPC\FeliScript.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\NPC\FeliScript.cs.meta
+      ProjectPath: Assets\Scripts\NPC\FeliScript.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\NPC\GenericNPCScript.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\NPC\GenericNPCScript.cs
+      ProjectPath: Assets\Scripts\NPC\GenericNPCScript.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\NPC\GenericNPCScript.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\NPC\GenericNPCScript.cs.meta
+      ProjectPath: Assets\Scripts\NPC\GenericNPCScript.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\NPC\UmbraScript.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\NPC\UmbraScript.cs
+      ProjectPath: Assets\Scripts\NPC\UmbraScript.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\NPC\UmbraScript.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\NPC\UmbraScript.cs.meta
+      ProjectPath: Assets\Scripts\NPC\UmbraScript.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Player.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Player.meta
+      ProjectPath: Assets\Scripts\Player.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Player\ERAttack.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Player\ERAttack.cs
+      ProjectPath: Assets\Scripts\Player\ERAttack.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Player\ERAttack.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Player\ERAttack.cs.meta
+      ProjectPath: Assets\Scripts\Player\ERAttack.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Player\MeleeHit.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Player\MeleeHit.cs
+      ProjectPath: Assets\Scripts\Player\MeleeHit.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Player\MeleeHit.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Player\MeleeHit.cs.meta
+      ProjectPath: Assets\Scripts\Player\MeleeHit.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Player\PlayerControllerScript.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Player\PlayerControllerScript.cs
+      ProjectPath: Assets\Scripts\Player\PlayerControllerScript.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Player\PlayerControllerScript.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Player\PlayerControllerScript.cs.meta
+      ProjectPath: Assets\Scripts\Player\PlayerControllerScript.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Player\PlayerResourcesController.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Player\PlayerResourcesController.cs
+      ProjectPath: Assets\Scripts\Player\PlayerResourcesController.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Player\PlayerResourcesController.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Player\PlayerResourcesController.cs.meta
+      ProjectPath: Assets\Scripts\Player\PlayerResourcesController.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Player\PlayerSkillManager.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Player\PlayerSkillManager.cs
+      ProjectPath: Assets\Scripts\Player\PlayerSkillManager.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Player\PlayerSkillManager.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Player\PlayerSkillManager.cs.meta
+      ProjectPath: Assets\Scripts\Player\PlayerSkillManager.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Player\PlayerTriggerCollision.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Player\PlayerTriggerCollision.cs
+      ProjectPath: Assets\Scripts\Player\PlayerTriggerCollision.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Player\PlayerTriggerCollision.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Player\PlayerTriggerCollision.cs.meta
+      ProjectPath: Assets\Scripts\Player\PlayerTriggerCollision.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Player\QEAttack.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Player\QEAttack.cs
+      ProjectPath: Assets\Scripts\Player\QEAttack.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Player\QEAttack.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Player\QEAttack.cs.meta
+      ProjectPath: Assets\Scripts\Player\QEAttack.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Player\QRAttack.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Player\QRAttack.cs
+      ProjectPath: Assets\Scripts\Player\QRAttack.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\Player\QRAttack.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\Player\QRAttack.cs.meta
+      ProjectPath: Assets\Scripts\Player\QRAttack.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\SkillButton.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\SkillButton.cs
+      ProjectPath: Assets\Scripts\SkillButton.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\SkillButton.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\SkillButton.cs.meta
+      ProjectPath: Assets\Scripts\SkillButton.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\SkillQueue.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\SkillQueue.cs
+      ProjectPath: Assets\Scripts\SkillQueue.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\SkillQueue.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\SkillQueue.cs.meta
+      ProjectPath: Assets\Scripts\SkillQueue.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\VariableManager.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\VariableManager.cs
+      ProjectPath: Assets\Scripts\VariableManager.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Scripts\VariableManager.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Scripts\VariableManager.cs.meta
+      ProjectPath: Assets\Scripts\VariableManager.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites.meta
+      ProjectPath: Assets\Sprites.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\NPCsheet.png
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\NPCsheet.png
+      ProjectPath: Assets\Sprites\NPCsheet.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\NPCsheet.png.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\NPCsheet.png.meta
+      ProjectPath: Assets\Sprites\NPCsheet.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\Thumbs.db
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\Thumbs.db
+      ProjectPath: Assets\Sprites\Thumbs.db
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\Thumbs.db.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\Thumbs.db.meta
+      ProjectPath: Assets\Sprites\Thumbs.db.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\mobSprites.png
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\mobSprites.png
+      ProjectPath: Assets\Sprites\mobSprites.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\mobSprites.png.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\mobSprites.png.meta
+      ProjectPath: Assets\Sprites\mobSprites.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\npcHeads.png
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\npcHeads.png
+      ProjectPath: Assets\Sprites\npcHeads.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\npcHeads.png.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\npcHeads.png.meta
+      ProjectPath: Assets\Sprites\npcHeads.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\playerSpritesheet.png
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\playerSpritesheet.png
+      ProjectPath: Assets\Sprites\playerSpritesheet.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\playerSpritesheet.png.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\playerSpritesheet.png.meta
+      ProjectPath: Assets\Sprites\playerSpritesheet.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\skillAnimations.png
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\skillAnimations.png
+      ProjectPath: Assets\Sprites\skillAnimations.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\skillAnimations.png.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\skillAnimations.png.meta
+      ProjectPath: Assets\Sprites\skillAnimations.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\tileset1.png
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\tileset1.png
+      ProjectPath: Assets\Sprites\tileset1.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\tileset1.png.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\tileset1.png.meta
+      ProjectPath: Assets\Sprites\tileset1.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\tileset2.png
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\tileset2.png
+      ProjectPath: Assets\Sprites\tileset2.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\tileset2.png.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\tileset2.png.meta
+      ProjectPath: Assets\Sprites\tileset2.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\tileset3.png
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\tileset3.png
+      ProjectPath: Assets\Sprites\tileset3.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\tileset3.png.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\tileset3.png.meta
+      ProjectPath: Assets\Sprites\tileset3.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\tileset4.png
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\tileset4.png
+      ProjectPath: Assets\Sprites\tileset4.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Sprites\tileset4.png.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Sprites\tileset4.png.meta
+      ProjectPath: Assets\Sprites\tileset4.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\TECHCA.unity
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\TECHCA.unity
+      ProjectPath: Assets\TECHCA.unity
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\TECHCA.unity.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\TECHCA.unity.meta
+      ProjectPath: Assets\TECHCA.unity.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Thumbs.db
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Thumbs.db
+      ProjectPath: Assets\Thumbs.db
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Thumbs.db.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Thumbs.db.meta
+      ProjectPath: Assets\Thumbs.db.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity.meta
+      ProjectPath: Assets\Tiled2Unity.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Imported.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Imported.meta
+      ProjectPath: Assets\Tiled2Unity\Imported.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Imported\GameMap.tiled2unity.xml
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Imported\GameMap.tiled2unity.xml
+      ProjectPath: Assets\Tiled2Unity\Imported\GameMap.tiled2unity.xml
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Imported\GameMap.tiled2unity.xml.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Imported\GameMap.tiled2unity.xml.meta
+      ProjectPath: Assets\Tiled2Unity\Imported\GameMap.tiled2unity.xml.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Imported\_ReadMe.txt
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Imported\_ReadMe.txt
+      ProjectPath: Assets\Tiled2Unity\Imported\_ReadMe.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Imported\_ReadMe.txt.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Imported\_ReadMe.txt.meta
+      ProjectPath: Assets\Tiled2Unity\Imported\_ReadMe.txt.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Imported\testingMap.tiled2unity.xml
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Imported\testingMap.tiled2unity.xml
+      ProjectPath: Assets\Tiled2Unity\Imported\testingMap.tiled2unity.xml
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Imported\testingMap.tiled2unity.xml.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Imported\testingMap.tiled2unity.xml.meta
+      ProjectPath: Assets\Tiled2Unity\Imported\testingMap.tiled2unity.xml.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\License.txt
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\License.txt
+      ProjectPath: Assets\Tiled2Unity\License.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\License.txt.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\License.txt.meta
+      ProjectPath: Assets\Tiled2Unity\License.txt.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials.meta
+      ProjectPath: Assets\Tiled2Unity\Materials.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\_ReadMe.txt
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\_ReadMe.txt
+      ProjectPath: Assets\Tiled2Unity\Materials\_ReadMe.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\_ReadMe.txt.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\_ReadMe.txt.meta
+      ProjectPath: Assets\Tiled2Unity\Materials\_ReadMe.txt.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\csTILES.mat
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\csTILES.mat
+      ProjectPath: Assets\Tiled2Unity\Materials\csTILES.mat
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\csTILES.mat.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\csTILES.mat.meta
+      ProjectPath: Assets\Tiled2Unity\Materials\csTILES.mat.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\tileset1.mat
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\tileset1.mat
+      ProjectPath: Assets\Tiled2Unity\Materials\tileset1.mat
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\tileset1.mat.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\tileset1.mat.meta
+      ProjectPath: Assets\Tiled2Unity\Materials\tileset1.mat.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\tileset1rev.mat
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\tileset1rev.mat
+      ProjectPath: Assets\Tiled2Unity\Materials\tileset1rev.mat
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\tileset1rev.mat.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\tileset1rev.mat.meta
+      ProjectPath: Assets\Tiled2Unity\Materials\tileset1rev.mat.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\tileset2.mat
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\tileset2.mat
+      ProjectPath: Assets\Tiled2Unity\Materials\tileset2.mat
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\tileset2.mat.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\tileset2.mat.meta
+      ProjectPath: Assets\Tiled2Unity\Materials\tileset2.mat.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\tileset2rev.mat
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\tileset2rev.mat
+      ProjectPath: Assets\Tiled2Unity\Materials\tileset2rev.mat
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\tileset2rev.mat.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\tileset2rev.mat.meta
+      ProjectPath: Assets\Tiled2Unity\Materials\tileset2rev.mat.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\tileset3.mat
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\tileset3.mat
+      ProjectPath: Assets\Tiled2Unity\Materials\tileset3.mat
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\tileset3.mat.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\tileset3.mat.meta
+      ProjectPath: Assets\Tiled2Unity\Materials\tileset3.mat.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\tileset3rev.mat
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\tileset3rev.mat
+      ProjectPath: Assets\Tiled2Unity\Materials\tileset3rev.mat
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\tileset3rev.mat.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\tileset3rev.mat.meta
+      ProjectPath: Assets\Tiled2Unity\Materials\tileset3rev.mat.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\tileset3revised.mat
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\tileset3revised.mat
+      ProjectPath: Assets\Tiled2Unity\Materials\tileset3revised.mat
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\tileset3revised.mat.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\tileset3revised.mat.meta
+      ProjectPath: Assets\Tiled2Unity\Materials\tileset3revised.mat.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\tileset4.mat
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\tileset4.mat
+      ProjectPath: Assets\Tiled2Unity\Materials\tileset4.mat
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\tileset4.mat.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\tileset4.mat.meta
+      ProjectPath: Assets\Tiled2Unity\Materials\tileset4.mat.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\tileset4rev.mat
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\tileset4rev.mat
+      ProjectPath: Assets\Tiled2Unity\Materials\tileset4rev.mat
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Materials\tileset4rev.mat.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Materials\tileset4rev.mat.meta
+      ProjectPath: Assets\Tiled2Unity\Materials\tileset4rev.mat.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Meshes.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Meshes.meta
+      ProjectPath: Assets\Tiled2Unity\Meshes.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Meshes\GameMap.obj
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Meshes\GameMap.obj
+      ProjectPath: Assets\Tiled2Unity\Meshes\GameMap.obj
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Meshes\GameMap.obj.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Meshes\GameMap.obj.meta
+      ProjectPath: Assets\Tiled2Unity\Meshes\GameMap.obj.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Meshes\_ReadMe.txt
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Meshes\_ReadMe.txt
+      ProjectPath: Assets\Tiled2Unity\Meshes\_ReadMe.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Meshes\_ReadMe.txt.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Meshes\_ReadMe.txt.meta
+      ProjectPath: Assets\Tiled2Unity\Meshes\_ReadMe.txt.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Meshes\testingMap.obj
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Meshes\testingMap.obj
+      ProjectPath: Assets\Tiled2Unity\Meshes\testingMap.obj
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Meshes\testingMap.obj.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Meshes\testingMap.obj.meta
+      ProjectPath: Assets\Tiled2Unity\Meshes\testingMap.obj.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Prefabs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Prefabs.meta
+      ProjectPath: Assets\Tiled2Unity\Prefabs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Prefabs\GameMap.prefab
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Prefabs\GameMap.prefab
+      ProjectPath: Assets\Tiled2Unity\Prefabs\GameMap.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Prefabs\GameMap.prefab.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Prefabs\GameMap.prefab.meta
+      ProjectPath: Assets\Tiled2Unity\Prefabs\GameMap.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Prefabs\_ReadMe.txt
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Prefabs\_ReadMe.txt
+      ProjectPath: Assets\Tiled2Unity\Prefabs\_ReadMe.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Prefabs\_ReadMe.txt.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Prefabs\_ReadMe.txt.meta
+      ProjectPath: Assets\Tiled2Unity\Prefabs\_ReadMe.txt.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Prefabs\testingMap.prefab
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Prefabs\testingMap.prefab
+      ProjectPath: Assets\Tiled2Unity\Prefabs\testingMap.prefab
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Prefabs\testingMap.prefab.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Prefabs\testingMap.prefab.meta
+      ProjectPath: Assets\Tiled2Unity\Prefabs\testingMap.prefab.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\CustomTiledImporterAttribute.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\CustomTiledImporterAttribute.cs
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\CustomTiledImporterAttribute.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\CustomTiledImporterAttribute.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\CustomTiledImporterAttribute.cs.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\CustomTiledImporterAttribute.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\ICustomTiledImporter.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\ICustomTiledImporter.cs
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\ICustomTiledImporter.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\ICustomTiledImporter.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\ICustomTiledImporter.cs.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\ICustomTiledImporter.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Material.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Material.cs
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Material.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Material.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Material.cs.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Material.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Mesh.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Mesh.cs
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Mesh.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Mesh.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Mesh.cs.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Mesh.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Prefab.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Prefab.cs
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Prefab.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Prefab.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Prefab.cs.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Prefab.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Texture.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Texture.cs
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Texture.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Texture.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Texture.cs.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Texture.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Xml.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Xml.cs
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Xml.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Xml.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Xml.cs.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Xml.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.cs
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.cs.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\ImportUtils.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\ImportUtils.cs
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\ImportUtils.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\ImportUtils.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\ImportUtils.cs.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\ImportUtils.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\SortingLayerExposedEditor.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\SortingLayerExposedEditor.cs
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\SortingLayerExposedEditor.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\SortingLayerExposedEditor.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\SortingLayerExposedEditor.cs.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\SortingLayerExposedEditor.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\Tiled2UnityMenuItems.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\Tiled2UnityMenuItems.cs
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\Tiled2UnityMenuItems.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\Tiled2UnityMenuItems.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\Tiled2UnityMenuItems.cs.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\Tiled2UnityMenuItems.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\TiledAssetPostProcessor.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\TiledAssetPostProcessor.cs
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\TiledAssetPostProcessor.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Editor\TiledAssetPostProcessor.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Editor\TiledAssetPostProcessor.cs.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Editor\TiledAssetPostProcessor.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Runtime.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Runtime.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Runtime.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Runtime\ImportBehaviour.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Runtime\ImportBehaviour.cs
+      ProjectPath: Assets\Tiled2Unity\Scripts\Runtime\ImportBehaviour.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Runtime\ImportBehaviour.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Runtime\ImportBehaviour.cs.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Runtime\ImportBehaviour.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Runtime\SortingLayerExposed.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Runtime\SortingLayerExposed.cs
+      ProjectPath: Assets\Tiled2Unity\Scripts\Runtime\SortingLayerExposed.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Runtime\SortingLayerExposed.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Runtime\SortingLayerExposed.cs.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Runtime\SortingLayerExposed.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Runtime\SpriteDepthInMap.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Runtime\SpriteDepthInMap.cs
+      ProjectPath: Assets\Tiled2Unity\Scripts\Runtime\SpriteDepthInMap.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Runtime\SpriteDepthInMap.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Runtime\SpriteDepthInMap.cs.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Runtime\SpriteDepthInMap.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Runtime\TileAnimator.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Runtime\TileAnimator.cs
+      ProjectPath: Assets\Tiled2Unity\Scripts\Runtime\TileAnimator.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Runtime\TileAnimator.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Runtime\TileAnimator.cs.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Runtime\TileAnimator.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Runtime\TileObject.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Runtime\TileObject.cs
+      ProjectPath: Assets\Tiled2Unity\Scripts\Runtime\TileObject.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Runtime\TileObject.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Runtime\TileObject.cs.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Runtime\TileObject.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Runtime\TiledInitialShaderProperties.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Runtime\TiledInitialShaderProperties.cs
+      ProjectPath: Assets\Tiled2Unity\Scripts\Runtime\TiledInitialShaderProperties.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Runtime\TiledInitialShaderProperties.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Runtime\TiledInitialShaderProperties.cs.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Runtime\TiledInitialShaderProperties.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Runtime\TiledMap.cs
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Runtime\TiledMap.cs
+      ProjectPath: Assets\Tiled2Unity\Scripts\Runtime\TiledMap.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Scripts\Runtime\TiledMap.cs.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Scripts\Runtime\TiledMap.cs.meta
+      ProjectPath: Assets\Tiled2Unity\Scripts\Runtime\TiledMap.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Shaders.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Shaders.meta
+      ProjectPath: Assets\Tiled2Unity\Shaders.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Shaders\shaColorKey.shader
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Shaders\shaColorKey.shader
+      ProjectPath: Assets\Tiled2Unity\Shaders\shaColorKey.shader
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Shaders\shaColorKey.shader.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Shaders\shaColorKey.shader.meta
+      ProjectPath: Assets\Tiled2Unity\Shaders\shaColorKey.shader.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Shaders\shaDefault.shader
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Shaders\shaDefault.shader
+      ProjectPath: Assets\Tiled2Unity\Shaders\shaDefault.shader
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Shaders\shaDefault.shader.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Shaders\shaDefault.shader.meta
+      ProjectPath: Assets\Tiled2Unity\Shaders\shaDefault.shader.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Shaders\shaDepth.shader
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Shaders\shaDepth.shader
+      ProjectPath: Assets\Tiled2Unity\Shaders\shaDepth.shader
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Shaders\shaDepth.shader.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Shaders\shaDepth.shader.meta
+      ProjectPath: Assets\Tiled2Unity\Shaders\shaDepth.shader.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Shaders\shaDepthColorKey.shader
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Shaders\shaDepthColorKey.shader
+      ProjectPath: Assets\Tiled2Unity\Shaders\shaDepthColorKey.shader
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Shaders\shaDepthColorKey.shader.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Shaders\shaDepthColorKey.shader.meta
+      ProjectPath: Assets\Tiled2Unity\Shaders\shaDepthColorKey.shader.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Shaders\shaDiffuseDepth.shader
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Shaders\shaDiffuseDepth.shader
+      ProjectPath: Assets\Tiled2Unity\Shaders\shaDiffuseDepth.shader
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Shaders\shaDiffuseDepth.shader.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Shaders\shaDiffuseDepth.shader.meta
+      ProjectPath: Assets\Tiled2Unity\Shaders\shaDiffuseDepth.shader.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Shaders\shaTiledMap.shader
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Shaders\shaTiledMap.shader
+      ProjectPath: Assets\Tiled2Unity\Shaders\shaTiledMap.shader
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Shaders\shaTiledMap.shader.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Shaders\shaTiledMap.shader.meta
+      ProjectPath: Assets\Tiled2Unity\Shaders\shaTiledMap.shader.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures.meta
+      ProjectPath: Assets\Tiled2Unity\Textures.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\_ReadMe.txt
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\_ReadMe.txt
+      ProjectPath: Assets\Tiled2Unity\Textures\_ReadMe.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\_ReadMe.txt.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\_ReadMe.txt.meta
+      ProjectPath: Assets\Tiled2Unity\Textures\_ReadMe.txt.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\tileset1.png
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\tileset1.png
+      ProjectPath: Assets\Tiled2Unity\Textures\tileset1.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\tileset1.png.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\tileset1.png.meta
+      ProjectPath: Assets\Tiled2Unity\Textures\tileset1.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\tileset1rev.png
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\tileset1rev.png
+      ProjectPath: Assets\Tiled2Unity\Textures\tileset1rev.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\tileset1rev.png.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\tileset1rev.png.meta
+      ProjectPath: Assets\Tiled2Unity\Textures\tileset1rev.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\tileset2.png
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\tileset2.png
+      ProjectPath: Assets\Tiled2Unity\Textures\tileset2.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\tileset2.png.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\tileset2.png.meta
+      ProjectPath: Assets\Tiled2Unity\Textures\tileset2.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\tileset2rev.png
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\tileset2rev.png
+      ProjectPath: Assets\Tiled2Unity\Textures\tileset2rev.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\tileset2rev.png.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\tileset2rev.png.meta
+      ProjectPath: Assets\Tiled2Unity\Textures\tileset2rev.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\tileset3.png
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\tileset3.png
+      ProjectPath: Assets\Tiled2Unity\Textures\tileset3.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\tileset3.png.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\tileset3.png.meta
+      ProjectPath: Assets\Tiled2Unity\Textures\tileset3.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\tileset3rev.png
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\tileset3rev.png
+      ProjectPath: Assets\Tiled2Unity\Textures\tileset3rev.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\tileset3rev.png.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\tileset3rev.png.meta
+      ProjectPath: Assets\Tiled2Unity\Textures\tileset3rev.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\tileset3revised.png
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\tileset3revised.png
+      ProjectPath: Assets\Tiled2Unity\Textures\tileset3revised.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\tileset3revised.png.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\tileset3revised.png.meta
+      ProjectPath: Assets\Tiled2Unity\Textures\tileset3revised.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\tileset4.png
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\tileset4.png
+      ProjectPath: Assets\Tiled2Unity\Textures\tileset4.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\tileset4.png.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\tileset4.png.meta
+      ProjectPath: Assets\Tiled2Unity\Textures\tileset4.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\tileset4rev.png
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\tileset4rev.png
+      ProjectPath: Assets\Tiled2Unity\Textures\tileset4rev.png
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Textures\tileset4rev.png.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Textures\tileset4rev.png.meta
+      ProjectPath: Assets\Tiled2Unity\Textures\tileset4rev.png.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Tiled2Unity.export.txt
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Tiled2Unity.export.txt
+      ProjectPath: Assets\Tiled2Unity\Tiled2Unity.export.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\Tiled2Unity\Tiled2Unity.export.txt.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\Tiled2Unity\Tiled2Unity.export.txt.meta
+      ProjectPath: Assets\Tiled2Unity\Tiled2Unity.export.txt.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\cour.ttf
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\cour.ttf
+      ProjectPath: Assets\cour.ttf
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\cour.ttf.meta
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\cour.ttf.meta
+      ProjectPath: Assets\cour.ttf.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\AudioManager.asset
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\ProjectSettings\AudioManager.asset
+      ProjectPath: ProjectSettings\AudioManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\ClusterInputManager.asset
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\ProjectSettings\ClusterInputManager.asset
+      ProjectPath: ProjectSettings\ClusterInputManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\DynamicsManager.asset
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\ProjectSettings\DynamicsManager.asset
+      ProjectPath: ProjectSettings\DynamicsManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\EditorBuildSettings.asset
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\ProjectSettings\EditorBuildSettings.asset
+      ProjectPath: ProjectSettings\EditorBuildSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\EditorSettings.asset
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\ProjectSettings\EditorSettings.asset
+      ProjectPath: ProjectSettings\EditorSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\GraphicsSettings.asset
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\ProjectSettings\GraphicsSettings.asset
+      ProjectPath: ProjectSettings\GraphicsSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\InputManager.asset
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\ProjectSettings\InputManager.asset
+      ProjectPath: ProjectSettings\InputManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\NavMeshAreas.asset
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\ProjectSettings\NavMeshAreas.asset
+      ProjectPath: ProjectSettings\NavMeshAreas.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\NetworkManager.asset
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\ProjectSettings\NetworkManager.asset
+      ProjectPath: ProjectSettings\NetworkManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\Physics2DSettings.asset
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\ProjectSettings\Physics2DSettings.asset
+      ProjectPath: ProjectSettings\Physics2DSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\ProjectSettings.asset
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\ProjectSettings\ProjectSettings.asset
+      ProjectPath: ProjectSettings\ProjectSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\ProjectVersion.txt
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\ProjectSettings\ProjectVersion.txt
+      ProjectPath: ProjectSettings\ProjectVersion.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\QualitySettings.asset
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\ProjectSettings\QualitySettings.asset
+      ProjectPath: ProjectSettings\QualitySettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\TagManager.asset
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\ProjectSettings\TagManager.asset
+      ProjectPath: ProjectSettings\TagManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\TimeManager.asset
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\ProjectSettings\TimeManager.asset
+      ProjectPath: ProjectSettings\TimeManager.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: ProjectSettings\UnityConnectSettings.asset
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\ProjectSettings\UnityConnectSettings.asset
+      ProjectPath: ProjectSettings\UnityConnectSettings.asset
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: testingBuild_Data.zip
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\testingBuild_Data.zip
+      ProjectPath: testingBuild_Data.zip
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+  - CommitID: 588f1d277a877d77e90e3bc76e148d5ba4f9af3c
+    MergeA: 
+    MergeB: 
+    AuthorName: James Long
+    AuthorEmail: jameslong0410@gmail.com
+    CommitEmail: jameslong0410@gmail.com
+    CommitName: James Long
+    Summary: Initial commit
+    Description: Initial commit
+    TimeString: 9/12/2017 11:52:40 PM -04:00
+    CommitTimeString: 9/12/2017 11:52:40 PM -04:00
+    Changes:
+    - Path: .gitattributes
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\.gitattributes
+      ProjectPath: .gitattributes
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: .gitignore
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\.gitignore
+      ProjectPath: .gitignore
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets\.gitignore
+      FullPath: C:\Users\James\Desktop\ToMove\HalloweenTown\UNITY\Tech CA\Assets\.gitignore
+      ProjectPath: Assets\.gitignore
+      OriginalPath: 
+      Status: 4
+      Staged: 0

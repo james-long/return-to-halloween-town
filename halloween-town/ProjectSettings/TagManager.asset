@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - BouncyBlock
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerCollisionCheckLayer
+  - AttackLayer
+  - PlayerLayer
+  - EnemyLayer
+  - BoundaryManager
+  - ObjectLayer
+  - 
+  - 
+  - SpecialBlock
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3395352121
+    locked: 0
+  - name: Terrain
+    uniqueID: 2400023613
+    locked: 0
+  - name: Enemies
+    uniqueID: 2497705907
+    locked: 0
+  - name: Player
+    uniqueID: 2552554801
+    locked: 0
