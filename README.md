@@ -1,5 +1,5 @@
 ## return-to-halloween-town
-A 2D RPG puzzle platformer made with Unity 2017. All scripting was done in C#, and all graphics are original.
+A 2D RPG puzzle platformer made with Unity. All scripting was done in C#, and all graphics are original.
 The game itself was very inspired by the Metroidvania archetype, and does its best to imitate a game of that genre.
 
 The HalloweenTownUnity directory contains source code for the game, to be opened in Unity.
