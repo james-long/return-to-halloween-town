@@ -7,24 +7,25 @@ Direct3D:
     VRAM:     2111 MB
     Driver:   21.20.16.4550
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\James\Desktop\ToMove\HalloweenTown\HalloweenTownGamesFinal\super spooky platformer WINDOWS\finalBuild_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\James\Desktop\ToMove\HalloweenTown\HalloweenTownGamesFinal\super spooky platformer WINDOWS\finalBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\James\Desktop\ToMove\HalloweenTown\HalloweenTownGamesFinal\super spooky platformer WINDOWS\finalBuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\James\Desktop\ToMove\HalloweenTown\HalloweenTownGamesFinal\super spooky platformer WINDOWS\finalBuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\James\Desktop\ToMove\HalloweenTown\HalloweenTownGamesFinal\super spooky platformer WINDOWS\finalBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\James\Desktop\ToMove\HalloweenTown\HalloweenTownGamesFinal\super spooky platformer WINDOWS\finalBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\James\Desktop\ToMove\HalloweenTown\HalloweenTownGamesFinal\super spooky platformer WINDOWS\finalBuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\James\Desktop\ToMove\HalloweenTown\HalloweenTownGamesFinal\super spooky platformer WINDOWS\finalBuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\James\Desktop\ToMove\HalloweenTown\HalloweenTownGamesFinal\super spooky platformer WINDOWS\finalBuild_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading C:\Users\James\Desktop\ToMove\HalloweenTown\HalloweenTownGamesFinal\super spooky platformer WINDOWS\finalBuild_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.029 seconds
-Platform assembly: C:\Users\James\Desktop\ToMove\HalloweenTown\HalloweenTownGamesFinal\super spooky platformer WINDOWS\finalBuild_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\James\Desktop\ToMove\HalloweenTown\HalloweenTownGamesFinal\super spooky platformer WINDOWS\finalBuild_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\James\Documents\GitHub\return-to-halloween-town\finalBuild WIN\finalBuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\James\Documents\GitHub\return-to-halloween-town\finalBuild WIN\finalBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\James\Documents\GitHub\return-to-halloween-town\finalBuild WIN\finalBuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\James\Documents\GitHub\return-to-halloween-town\finalBuild WIN\finalBuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\James\Documents\GitHub\return-to-halloween-town\finalBuild WIN\finalBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\James\Documents\GitHub\return-to-halloween-town\finalBuild WIN\finalBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\James\Documents\GitHub\return-to-halloween-town\finalBuild WIN\finalBuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\James\Documents\GitHub\return-to-halloween-town\finalBuild WIN\finalBuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\James\Documents\GitHub\return-to-halloween-town\finalBuild WIN\finalBuild_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\James\Documents\GitHub\return-to-halloween-town\finalBuild WIN\finalBuild_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.181 seconds
+Platform assembly: C:\Users\James\Documents\GitHub\return-to-halloween-town\finalBuild WIN\finalBuild_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\James\Documents\GitHub\return-to-halloween-town\finalBuild WIN\finalBuild_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initialized touch support.
-UnloadTime: 3.703693 ms
+UnloadTime: 8.783671 ms
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 2840 -> priority: 1 
+  Thread -> id: 4974 -> priority: 1 
