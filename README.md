@@ -26,7 +26,6 @@ Space - Cast the spell that you currently have queued.
 
 # Screenshots
 ![First set of images](screenshots/123.png)
-
 ![Second set of images](screenshots/456.png)
 
 # Miscellaneous
